@@ -57,12 +57,6 @@ export default {
 			color: "3",
 			percentage: "80",
 		},
-		/*{
-			title: "Saas products",
-			skillName: "CleverTap, FreshDesk",
-			color: "5",
-			percentage: "50",
-		},*/
 		{
 			title: "Editor",
 			skillName: "Visual Code Studio, Atom",
@@ -73,7 +67,7 @@ export default {
 	projects: {
 		web: [
 			 {
-			 	projectName: "Programming Diaries",
+			 	projectName: "Youtube Clone",
 			 	image: "images/programmingdiaries.png",
 			 	summary:
 			 		"Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
@@ -87,7 +81,7 @@ export default {
 			 	],
 			 }
 			// {
-			// 	projectName: "Find Your Bank",
+			// 	projectName: "Weather App",
 			// 	image: "images/findyourbank.png",
 			// 	summary:
 			// 		"Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
@@ -95,7 +89,7 @@ export default {
 			// 	techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
 			// },
 			// {
-			// 	projectName: "Web Portfolio",
+			// 	projectName: "Color-Picker Chrome Extension",
 			// 	image: "images/portfolio.png",
 			// 	summary:
 			// 		"Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
@@ -103,7 +97,7 @@ export default {
 			// 	techStack: ["HTML", "Bootstrap", "JavaScript"],
 			// },
 			// {
-			// 	projectName: "Resume Builder",
+			// 	projectName: "Spotify Clone",
 			// 	image: "images/resume-builder.png",
 			// 	summary:
 			// 		"Browser based editor to build and download Resumes in a customizable templates.",
@@ -112,31 +106,31 @@ export default {
 			// },
 		],
 		software: [
-			// {
-			// 	projectName: "Pizza Ordering ChatBot",
-			// 	image: "images/pizzaorderchatbot.png",
-			// 	summary:
-			// 		"ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
-			// 	preview:
-			// 		"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
-			// 	techStack: ["Dailogflow", "Firebase"],
-			// },
-			// {
-			// 	projectName: "WhatsApp-Bot",
-			// 	image: "images/whatsappbot.jpg",
-			// 	summary:
-			// 		"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
-			// 	preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
-			// 	techStack: ["Selenium", "Chrome Webdriver", "Python"],
-			// },
-			// {
-			// 	projectName: "Bill Generator",
-			// 	image: "images/billgenerator.png",
-			// 	summary:
-			// 		"GUI to transfer data to excel sheets and generate bills on the local shops.",
-			// 	preview: "https://github.com/vinaysomawat/Bill-Generator",
-			// 	techStack: ["Tkinter", "Openxlpy", "Python"],
-			// },
+			 {
+			 	projectName: "BLW Inventory Shop",
+			 	image: "images/pizzaorderchatbot.png",
+			 	summary:
+			 		"ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
+			 	preview:
+			 		"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
+			 	techStack: ["Dailogflow", "Firebase"],
+			 },
+			 {
+			 	projectName: "Expense Tracker",
+			 	image: "images/whatsappbot.jpg",
+			 	summary:
+			 		"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
+			 	preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
+			 	techStack: ["Selenium", "Chrome Webdriver", "Python"],
+			 },
+			 {
+			 	projectName: "Connect-Ho!",
+			 	image: "images/billgenerator.png",
+			 	summary:
+			 		"GUI to transfer data to excel sheets and generate bills on the local shops.",
+			 	preview: "https://github.com/vinaysomawat/Bill-Generator",
+			 	techStack: ["Tkinter", "Openxlpy", "Python"],
+			 },
 		],
 		android: [
 			 {
