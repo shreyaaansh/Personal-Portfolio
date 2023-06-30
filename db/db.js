@@ -79,31 +79,31 @@ export default {
 			 		"JavaScript",
 			 		"Heroku",
 			 	],
-			 }
-			// {
-			// 	projectName: "Weather App",
-			// 	image: "images/findyourbank.png",
-			// 	summary:
-			// 		"Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
-			// 	preview: "https://clever-fermi-0d5d76.netlify.app",
-			// 	techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
-			// },
-			// {
-			// 	projectName: "Color-Picker Chrome Extension",
-			// 	image: "images/portfolio.png",
-			// 	summary:
-			// 		"Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-			// 	preview: "https://github.com/vinaysomawat/Travographer-Portal",
-			// 	techStack: ["HTML", "Bootstrap", "JavaScript"],
-			// },
-			// {
-			// 	projectName: "Spotify Clone",
-			// 	image: "images/resume-builder.png",
-			// 	summary:
-			// 		"Browser based editor to build and download Resumes in a customizable templates.",
-			// 	preview: "https://vinaysomawat.github.io/Resume-Builder",
-			// 	techStack: ["HTML", "Bootstrap", "JavaScript"],
-			// },
+			 },
+			{
+				projectName: "Weather App",
+				image: "images/findyourbank.png",
+				summary:
+					"Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
+				preview: "https://clever-fermi-0d5d76.netlify.app",
+				techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
+			},
+			{
+				projectName: "Color-Picker Chrome Extension",
+				image: "images/portfolio.png",
+				summary:
+					"Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
+				preview: "https://github.com/vinaysomawat/Travographer-Portal",
+				techStack: ["HTML", "Bootstrap", "JavaScript"],
+			},
+			{
+				projectName: "Spotify Clone",
+				image: "images/resume-builder.png",
+				summary:
+					"Browser based editor to build and download Resumes in a customizable templates.",
+				preview: "https://vinaysomawat.github.io/Resume-Builder",
+				techStack: ["HTML", "Bootstrap", "JavaScript"],
+			},
 		],
 		software: [
 			 {
