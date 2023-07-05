@@ -70,12 +70,11 @@ export default {
 			 	projectName: "Youtube Clone",
 			 	image: "images/programmingdiaries.png",
 			 	summary:
-			 		"Developed a full stack blog application to provide content on techical topics across the internet with admin interface.",
+			 		"Developed a frontend of the well known YOutube website where various details of videos are shown.",
 			 	preview: "https://programmingdiaries.herokuapp.com/",
 			 	techStack: [
-			 		"Django",
-			 		"SQLite",
-			 		"Bootstrap",
+			 		"HTML",
+			 		"Bootstrap","Firebase","ReactJS",
 			 		"JavaScript",
 			 		"Heroku",
 			 	],
@@ -83,16 +82,14 @@ export default {
 			{
 				projectName: "Weather App",
 				image: "images/findyourbank.png",
-				summary:
-					"Developed a React application to render a list of banks fetched from API. Filtered the banks based on queries from localstorage, marked favorites banks.",
+				summary: "Well built website to check your weather status of your desires location fetching weather details from weather API.",
 				preview: "https://clever-fermi-0d5d76.netlify.app",
-				techStack: ["Reactjs", "Bootstrap", "JavaScript", "Netlify"],
+				techStack: ["HTML","CSS", "Bootstrap", "JavaScript", "Netlify"],
 			},
 			{
 				projectName: "Color-Picker Chrome Extension",
 				image: "images/portfolio.png",
-				summary:
-					"Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
+				summary: "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
 				preview: "https://github.com/vinaysomawat/Travographer-Portal",
 				techStack: ["HTML", "Bootstrap", "JavaScript"],
 			},
@@ -100,7 +97,7 @@ export default {
 				projectName: "Spotify Clone",
 				image: "images/resume-builder.png",
 				summary:
-					"Browser based editor to build and download Resumes in a customizable templates.",
+					"A clone for world famous spotify application to play music.",
 				preview: "https://vinaysomawat.github.io/Resume-Builder",
 				techStack: ["HTML", "Bootstrap", "JavaScript"],
 			},
@@ -118,16 +115,14 @@ export default {
 			 {
 			 	projectName: "Expense Tracker",
 			 	image: "images/whatsappbot.jpg",
-			 	summary:
-			 		"Python script which helps to send messages to WhatsApp contacts automatically using selenium and web automation.",
+			 	summary: "A platform to keep your daily expenses record and spend accordingly.",
 			 	preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
 			 	techStack: ["Selenium", "Chrome Webdriver", "Python"],
 			 },
 			 {
 			 	projectName: "Connect-Ho!",
 			 	image: "images/billgenerator.png",
-			 	summary:
-			 		"GUI to transfer data to excel sheets and generate bills on the local shops.",
+			 	summary: "A clone for social media website where useres interact and has functionality",
 			 	preview: "https://github.com/vinaysomawat/Bill-Generator",
 			 	techStack: ["Tkinter", "Openxlpy", "Python"],
 			 },
@@ -136,8 +131,7 @@ export default {
 			 {
 			 	projectName: "AI baseed Attendance System",
 			 	image: "images/nitwcse.jpg",
-			 	summary:
-			 		"The Application shows the real time attendance of all the registered students with exact timeing of particular date.",
+			 	summary: "The Application shows the real time attendance of all the registered students with exact timeing of particular date.",
 			 	preview: "https://github.com/shreyaaansh/AI-based-Attendance-System",
 			 	techStack: ["Python","OpenCV","NumPy", "Face-Recognition", "CSV"],
 			 },
@@ -210,7 +204,7 @@ export default {
 	education: [
 		{
 			title: "Bachelors in Computer Science and Engineering",
-			duration: "",
+			duration: "2020 - 2024",
 			subtitle: "Jaypee University of Engineering and Technology, Guna",
 			details: [
 				"Current CGPA 7.8",
@@ -230,7 +224,7 @@ export default {
 		},
 		{
 			title: "Class 11-12th in Science and Mathematics",
-			duration: "",
+			duration: "2019 - 2020",
 			subtitle: "Sunbeam English School, Bhagwanpur",
 			details: [
 				"Central Board of Secondary Education",
