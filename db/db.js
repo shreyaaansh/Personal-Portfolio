@@ -133,7 +133,7 @@ export default {
 			 	image: "images/nitwcse.jpg",
 			 	summary: "The Application shows the real time attendance of all the registered students with exact timeing of particular date.",
 			 	preview: "https://github.com/shreyaaansh/AI-based-Attendance-System",
-			 	techStack: ["Python","OpenCV","NumPy", "Face-Recognition", "CSV"],
+			 	techStack: ["Python","OpenCV","NumPy", "Face-Recognition", "CSV","Pandas"],
 			 },
 			 //{
 			 //	projectName: "CareerHigh-App",
