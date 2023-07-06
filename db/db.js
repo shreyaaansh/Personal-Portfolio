@@ -71,7 +71,7 @@ export default {
 			 	image: "images/programmingdiaries.png",
 			 	summary:
 			 		"Developed a frontend of the well known YOutube website where various details of videos are shown.",
-			 	preview: "https://programmingdiaries.herokuapp.com/",
+			 	preview: "https://github.com/shreyaaansh/Youtube-clone",
 			 	techStack: [
 			 		"HTML",
 			 		"Bootstrap","Firebase","ReactJS",
@@ -83,14 +83,14 @@ export default {
 				projectName: "Weather App",
 				image: "images/findyourbank.png",
 				summary: "Well built website to check your weather status of your desires location fetching weather details from weather API.",
-				preview: "https://clever-fermi-0d5d76.netlify.app",
+				preview: "https://github.com/shreyaaansh/Weather-App",
 				techStack: ["HTML","CSS", "Bootstrap", "JavaScript", "Netlify"],
 			},
 			{
 				projectName: "Color-Picker Chrome Extension",
 				image: "images/portfolio.png",
 				summary: "Web Portfolio to showcase acadmics, skills, projects and contact details in better manner.",
-				preview: "https://github.com/vinaysomawat/Travographer-Portal",
+				preview: "https://github.com/shreyaaansh/Color-Picker-Extension",
 				techStack: ["HTML", "Bootstrap", "JavaScript"],
 			},
 			{
@@ -98,7 +98,7 @@ export default {
 				image: "images/resume-builder.png",
 				summary:
 					"A clone for world famous spotify application to play music.",
-				preview: "https://vinaysomawat.github.io/Resume-Builder",
+				preview: "https://github.com/shreyaaansh/Spotify-Clone",
 				techStack: ["HTML", "Bootstrap", "JavaScript"],
 			},
 		],
@@ -109,14 +109,14 @@ export default {
 			 	summary:
 			 		"ChatBot using Dialogflow, Firebase database which stores the chat data in the realtime database.",
 			 	preview:
-			 		"https://github.com/vinaysomawat/Pizza-Ordering-ChatBot",
+			 		"https://github.com/shreyaaansh/RailwayProductSorter",
 			 	techStack: ["Dailogflow", "Firebase"],
 			 },
 			 {
 			 	projectName: "Expense Tracker",
 			 	image: "images/whatsappbot.jpg",
 			 	summary: "A platform to keep your daily expenses record and spend accordingly.",
-			 	preview: "https://github.com/vinaysomawat/WhatsApp-Bot",
+			 	preview: "https://github.com/shreyaaansh/Expense-Tracker",
 			 	techStack: ["Selenium", "Chrome Webdriver", "Python"],
 			 },
 			 {
@@ -170,14 +170,15 @@ export default {
 		 	duration: "June 2023 - July 2023",
 		 	subtitle: "Computer Science Intern",
 		 	details: [
-		 		"Working on the products in the healthcare/digital therapeutics domain."
+		 		"A goverment sector internship to get to know various industrail working and worked upon a project."
 		 	],
 		 	tags: [
 		 		"JavaScript",
-		 		"Angular",
+		 		"React",
 		 		"Bootstrap",
 		 		"Nodejs",
-		 		"Jenkins",
+		 		"MongoDB",
+				"AutoCA"
 		 	],
 			icon: "heartbeat",
 		}
